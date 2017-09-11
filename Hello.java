@@ -1,4 +1,7 @@
 
+// Adding comments 
+// Added by Sanjay
+//
 public class Hello.java
 {
  public void static main(String args){
